@@ -17,7 +17,7 @@
 
 <br/>
 
-### 🚀 Experience & Leadership
+### Experience & Leadership
 
 **Avionics & Flight Electronics Developer @ [thrustMIT](https://github.com/thrustMIT)** *(IREC/ESRA Competing Team)*
 * **Telemetry & Hardware:** Engineered a multi-bus sensor data acquisition pipeline (ICM-20948, KX134, MS5611) broadcasting telemetry over CAN3 at 1 Mbps between Teensy 4.1 microcontrollers.
@@ -32,7 +32,7 @@
 
 <br/>
 
-### 🛠️ Technical Arsenal
+### Technical Arsenal
 
 <table align="center">
   <tr>
@@ -64,7 +64,7 @@
 
 <br/>
 
-### 💻 Featured Projects
+### Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -74,7 +74,7 @@
 
 <br/>
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=kaus-thetaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117" />
