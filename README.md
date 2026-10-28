@@ -24,7 +24,7 @@
 * **Flight Algorithms:** Designed and validated apogee detection algorithms in C and Python utilizing simulated rocket telemetry with Monte Carlo noise parameters.
 * **Ground Control System:** Developed a live GSE desktop application featuring a `SAFE → ARM → LAUNCH` safety interlock state machine, utilized in live static fire testing.
 * **Full-Stack Dashboard:** Built *RocketDash*—a live flight data telemetry dashboard using React, FastAPI, and a multi-sensor fusion pipeline.
-* **Research & Analysis:** Designed ANSIS (a novel IMU noise reduction algorithm) and authored a full research paper on the methodology. Characterized the ICM-20948 DLPF across 7 configurations to recommend optimal flight-relevant cutoff frequencies.
+* **Research & Analysis:** Designed ANSIS (a novel IMU noise reduction algorithm) and . Characterized the ICM-20948 DLPF across 7 configurations to recommend optimal flight-relevant cutoff frequencies.
 
 **Vice President of Marketing @ AIESEC in M.A.H.E.**
 * Directed campus-wide organizational branding and marketing strategies.
