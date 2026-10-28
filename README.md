@@ -1,70 +1,82 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=Kaustubh+Chaturvedi+%E2%80%94+Avionics+%7C+AI+%7C+Embedded+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=700&height=60&lines=Kaustubh+Chaturvedi+%E2%80%94+Avionics+%7C+AI+%7C+Embedded+Systems" alt="Typing SVG" />
 
-<br/>
+**B.Tech Computer Science & Engineering @ MIT Manipal**
 
-`CSE @ MIT Manipal` &nbsp;·&nbsp; `Flight Electronics @ thrustMIT` &nbsp;·&nbsp; `VP Marketing @ AIESEC`
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaustubh-chaturvedi-644865374)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/itskaustheta)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/zMUiC6AML7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaustubh-chaturvedi-644865374)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaus-thetaa)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/zMUiC6AML7)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itskaustheta)
 
 </div>
 
 <br/>
 
----
-
-I build at the intersection of AI and hardware — firmware for rockets competing internationally, offline AI tools, and reinforcement learning systems. 2nd year CSE student at MIT Manipal.
+> Building at the intersection of **Artificial Intelligence** and **Hardware**. Currently developing flight-critical firmware for internationally competitive sounding rockets, engineering offline AI layers, and leading strategic marketing initiatives. I thrive in environments requiring low-latency hardware control and intelligent software architectures.
 
 <br/>
 
-**@ thrustMIT — IREC/ESRA competing university rocketry team**
+### 🚀 Experience & Leadership
 
-- Designed and deployed a GSE desktop application with a `SAFE → ARM → LAUNCH` safety interlock state machine, used in live static fire testing
-- Built RocketDash — full-stack telemetry dashboard with React, FastAPI, and multi-sensor fusion pipeline for live flight data
-- Authored a 1.2 GHz analog video telemetry component selection report with full free-space path loss link budget analysis
-- Designed ANSIS — a novel IMU noise reduction algorithm for flight-grade sensors; authored full research paper on the methodology
-- Characterised the ICM-20948 DLPF across 7 configurations; recommended optimal cutoff frequency for flight-relevant motion dynamics
+**Avionics & Flight Electronics Developer @ [thrustMIT](https://github.com/thrustMIT)** *(IREC/ESRA Competing Team)*
+* **Telemetry & Hardware:** Engineered a multi-bus sensor data acquisition pipeline (ICM-20948, KX134, MS5611) broadcasting telemetry over CAN3 at 1 Mbps between Teensy 4.1 microcontrollers.
+* **Flight Algorithms:** Designed and validated apogee detection algorithms in C and Python utilizing simulated rocket telemetry with Monte Carlo noise parameters.
+* **Ground Control System:** Developed a live GSE desktop application featuring a `SAFE → ARM → LAUNCH` safety interlock state machine, utilized in live static fire testing.
+* **Full-Stack Dashboard:** Built *RocketDash*—a live flight data telemetry dashboard using React, FastAPI, and a multi-sensor fusion pipeline.
+* **Research & Analysis:** Designed ANSIS (a novel IMU noise reduction algorithm) and authored a full research paper on the methodology. Characterized the ICM-20948 DLPF across 7 configurations to recommend optimal flight-relevant cutoff frequencies.
+
+**Vice President of Marketing @ AIESEC in M.A.H.E.**
+* Directed campus-wide organizational branding and marketing strategies.
+* Organized and executed major campus conferences including the LCONG revival and ISAC, managing logistics, pitches, and cross-functional team coordination.
 
 <br/>
 
----
+### 🛠️ Technical Arsenal
 
-### Projects
+<table align="center">
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td align="center"><b>Embedded & Hardware</b></td>
+    <td align="center"><b>AI & Software</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      C/C++<br>
+      Python<br>
+      Java<br>
+      Verilog
+    </td>
+    <td align="center">
+      FreeRTOS · PlatformIO<br>
+      Teensy · ESP32 · STM32<br>
+      CAN Bus · I2C/SPI · LoRa<br>
+      GTKWave · Icarus Verilog
+    </td>
+    <td align="center">
+      React · FastAPI<br>
+      Stable-Baselines3 (RL)<br>
+      Ollama · ChromaDB<br>
+      Linux (Ubuntu/Debian)
+    </td>
+  </tr>
+</table>
 
-| | Project | Stack |
+<br/>
+
+### 💻 Featured Projects
+
+| Project | Description | Stack |
 |---|---|---|
-| [AI-OS](https://github.com/kaus-thetaa/ai-os) | Fully offline AI layer over Windows — local LLM, natural language file operations, no cloud dependency | Python · Ollama · ChromaDB · PyQt6 |
-| [IMU_Auto_HAL](https://github.com/kaus-thetaa/IMU_Auto_HAL) | Bare-metal C++ HAL for auto-detecting I2C IMUs on Arduino — deployed in flight hardware | C++ · Arduino · I2C |
-| [rl-airbrakes](https://github.com/kaus-thetaa/rl-airbrakes) | Reinforcement learning agent for rocket airbrake deployment control | Python · Stable-Baselines3 |
+| **[AI-OS](https://github.com/kaus-thetaa/ai-os)** | Fully offline AI layer for Windows featuring local LLM integration and natural language file operations with zero cloud dependency. | `Python` `Ollama` `ChromaDB` `PyQt6` |
+| **[IMU_Auto_HAL](https://github.com/kaus-thetaa/IMU_Auto_HAL)** | Bare-metal C++ Hardware Abstraction Layer for auto-detecting I2C IMUs. Deployed directly into active flight hardware. | `C++` `Arduino` `I2C` `PlatformIO` |
+| **[rl-airbrakes](https://github.com/kaus-thetaa/rl-airbrakes)** | Reinforcement learning agent trained to optimize and control rocket airbrake deployment for precise apogee targeting. | `Python` `Stable-Baselines3` |
 
 <br/>
 
----
-
-### Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-8DC1A9?style=flat-square&logoColor=black)
-
-<br/>
-
----
+### 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=kaus-thetaa&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" />
-&nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaus-thetaa&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=c9d1d9" />
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kaus-thetaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaus-thetaa&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
 </div>
