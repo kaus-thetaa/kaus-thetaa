@@ -94,7 +94,6 @@ Isometric LeetCode activity visualization powered by
 
 <br/>
 
-### GitHub Analytics
 
 ### GitHub Analytics
 
@@ -110,30 +109,30 @@ alt="Top Programming Languages"/>
 
 </div>
 
-### Flight Operations // ASCII Sequence
+<br/>
+<br/>
 
 <div align="center">
 
-<img src="./ascii-launch-sequence.gif"
-     width="100%"
-     alt="ASCII rocket launch sequence"/>
+<img
+  src="./assets/desert-needle-skyline.gif"
+  width="100%"
+  alt="Desert Needle Skyline — animated ASCII dots"
+  />
 
 <br/>
 
 <sub>
-FLIGHT COMPUTER ONLINE // TELEMETRY NOMINAL //
-AUTONOMOUS ASCENT SEQUENCE
+END OF TRANSMISSION // DESERT NEEDLE SKYLINE
 </sub>
 
 <br/>
 
 <sub>
-Visual inspiration:
-<a href="https://ascii-motion.app/community/project/6bf1663b-f867-4795-9257-43fe38a276e6">
-ASCII Motion Community
+VISUAL SYSTEMS BY
+<a href="https://www.ascii-magic.com/ascii/desert-needle-skyline">
+ASCII MAGIC
 </a>
 </sub>
 
 </div>
-
-<br/>
