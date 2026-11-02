@@ -86,8 +86,6 @@
 ![LeetCode Activity Light](assets/leetcode-isometric-light.svg#gh-light-mode-only)
 
 <sub>
-Isometric LeetCode activity visualization powered by
-<a href="https://github.com/KartikRashmin/leetcode-isometric-3d">LeetCode Isometric 3D</a>.
 </sub>
 
 </div>
