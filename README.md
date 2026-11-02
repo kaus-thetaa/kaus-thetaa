@@ -20,13 +20,15 @@
 ### Experience & Leadership
 
 **Avionics & Flight Electronics Developer @ [thrustMIT](https://github.com/thrustMIT)** *(IREC/ESRA Competing Team)*
+
 * **Telemetry & Hardware:** Engineered a multi-bus sensor data acquisition pipeline (ICM-20948, KX134, MS5611) broadcasting telemetry over CAN3 at 1 Mbps between Teensy 4.1 microcontrollers.
 * **Flight Algorithms:** Designed and validated apogee detection algorithms in C and Python utilizing simulated rocket telemetry with Monte Carlo noise parameters.
 * **Ground Control System:** Developed a live GSE desktop application featuring a `SAFE → ARM → LAUNCH` safety interlock state machine, utilized in live static fire testing.
 * **Full-Stack Dashboard:** Built *RocketDash*—a live flight data telemetry dashboard using React, FastAPI, and a multi-sensor fusion pipeline.
-* **Research & Analysis:** Designed ANSIS (a novel IMU noise reduction algorithm) and . Characterized the ICM-20948 DLPF across 7 configurations to recommend optimal flight-relevant cutoff frequencies.
+* **Research & Analysis:** Designed ANSIS, a novel IMU noise reduction algorithm. Characterized the ICM-20948 DLPF across 7 configurations to recommend optimal flight-relevant cutoff frequencies.
 
 **Vice President of Marketing @ AIESEC in M.A.H.E.**
+
 * Directed campus-wide organizational branding and marketing strategies.
 * Organized and executed major campus conferences including the LCONG revival and ISAC, managing logistics, pitches, and cross-functional team coordination.
 
@@ -74,9 +76,30 @@
 
 <br/>
 
+### LeetCode Activity
+
+<div align="center">
+
+**365 DAYS OF PROBLEM SOLVING**
+
+![LeetCode Activity Dark](assets/leetcode-isometric-dark.svg#gh-dark-mode-only)
+![LeetCode Activity Light](assets/leetcode-isometric-light.svg#gh-light-mode-only)
+
+<sub>
+Isometric LeetCode activity visualization powered by
+<a href="https://github.com/KartikRashmin/leetcode-isometric-3d">LeetCode Isometric 3D</a>.
+</sub>
+
+</div>
+
+<br/>
+
 ### GitHub Analytics
 
 <div align="center">
+
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=kaus-thetaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117" />
+
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaus-thetaa&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+
 </div>
