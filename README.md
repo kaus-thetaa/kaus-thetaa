@@ -17,7 +17,7 @@
 
 <br/>
 
-### Experience & Leadership
+### Experience
 
 **Avionics & Flight Electronics Developer @ [thrustMIT](https://github.com/thrustMIT)** *(IREC/ESRA Competing Team)*
 
@@ -27,10 +27,6 @@
 * **Full-Stack Dashboard:** Built *RocketDash*—a live flight data telemetry dashboard using React, FastAPI, and a multi-sensor fusion pipeline.
 * **Research & Analysis:** Designed ANSIS, a novel IMU noise reduction algorithm. Characterized the ICM-20948 DLPF across 7 configurations to recommend optimal flight-relevant cutoff frequencies.
 
-**Vice President of Marketing @ AIESEC in M.A.H.E.**
-
-* Directed campus-wide organizational branding and marketing strategies.
-* Organized and executed major campus conferences including the LCONG revival and ISAC, managing logistics, pitches, and cross-functional team coordination.
 
 <br/>
 
@@ -109,7 +105,7 @@
 <sub>
 
   
-END OF TRANSMISSION // DESERT NEEDLE SKYLINE
+
 
 
 <!-- Export the GIF below in the look you picked, commit it, then: -->
