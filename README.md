@@ -102,7 +102,7 @@ Isometric LeetCode activity visualization powered by
 <div align="center">
 
 <img
-  src="./assets/desert-needle-skyline.gif"
+  src="./desert-needle-skyline.gif"
   width="100%"
   alt="Desert Needle Skyline — animated ASCII dots"
   />
