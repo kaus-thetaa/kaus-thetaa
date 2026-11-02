@@ -104,7 +104,6 @@ Isometric LeetCode activity visualization powered by
 <img
   src="./desert-needle-skyline.gif"
   width="200%"
-  alt="Desert Needle Skyline — animated ASCII dots"
   />
 
 <br/>
