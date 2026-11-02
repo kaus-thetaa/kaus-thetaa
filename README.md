@@ -96,16 +96,19 @@ Isometric LeetCode activity visualization powered by
 
 ### GitHub Analytics
 
+### GitHub Analytics
+
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kaus-thetaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117" />
+<img height="165"
+src="https://github-stats-extended.vercel.app/api?username=kaus-thetaa&show_icons=true&theme=tokyonight&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117"
+alt="GitHub Statistics"/>
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaus-thetaa&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+<img height="165"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=kaus-thetaa&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117"
+alt="Top Programming Languages"/>
 
 </div>
-
-
-<br/>
 
 ### Flight Operations // ASCII Sequence
 
