@@ -103,3 +103,34 @@ Isometric LeetCode activity visualization powered by
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaus-thetaa&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
 
 </div>
+
+
+<br/>
+
+### Flight Operations // ASCII Sequence
+
+<div align="center">
+
+<img src="./ascii-launch-sequence.gif"
+     width="100%"
+     alt="ASCII rocket launch sequence"/>
+
+<br/>
+
+<sub>
+FLIGHT COMPUTER ONLINE // TELEMETRY NOMINAL //
+AUTONOMOUS ASCENT SEQUENCE
+</sub>
+
+<br/>
+
+<sub>
+Visual inspiration:
+<a href="https://ascii-motion.app/community/project/6bf1663b-f867-4795-9257-43fe38a276e6">
+ASCII Motion Community
+</a>
+</sub>
+
+</div>
+
+<br/>
