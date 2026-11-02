@@ -96,16 +96,26 @@ Isometric LeetCode activity visualization powered by
 
 
 
-END OF TRANSMISSION // DESERT NEEDLE SKYLINE
-</sub>
+<br/>
+<br/>
+
+<div align="center">
+
+<img
+  src="./assets/desert-needle-skyline.gif"
+  width="100%"
+  alt="Desert Needle Skyline — animated ASCII dots"
+  />
 
 <br/>
 
 <sub>
-VISUAL SYSTEMS BY
-<a href="https://www.ascii-magic.com/ascii/desert-needle-skyline">
-ASCII MAGIC
-</a>
-</sub>
 
-</div>
+  
+END OF TRANSMISSION // DESERT NEEDLE SKYLINE
+
+
+<!-- Export the GIF below in the look you picked, commit it, then: -->
+<p align="center">
+  <img src="assets/desert-needle-skyline.gif" alt="Desert Needle Skyline, animated ASCII art" width="720">
+</p>
