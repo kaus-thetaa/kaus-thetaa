@@ -41,3 +41,6 @@ jobs:
 
           git commit --quiet --message "Update Git Koi"
           git push --quiet
+
+      - name: Verify generated koi
+        run: test -s koi/koi.gif
