@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dist/readme-arcade-kaus-theta-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./dist/readme-arcade-kaus-theta.svg">
-  <img src="./dist/readme-arcade-kaus-theta.svg" width="900" alt="KAUS_THETA — README Arcade">
+  <img src="./dist/readme-arcade-kaus-theta.svg" width="900" alt="Kaustubh Chaturvedi — README Arcade">
 </picture>
 
 <p>

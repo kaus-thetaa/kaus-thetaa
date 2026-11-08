@@ -74,39 +74,19 @@ def add_name(path: Path) -> None:
         },
     )
 
-    gradient = ET.SubElement(
-        group,
-        f"{{{SVG_NS}}}linearGradient",
-        {
-            "id": "profile-name-palette",
-            "x1": "0%",
-            "x2": "100%",
-            "y1": "0%",
-            "y2": "0%",
-        },
-    )
+    palette_width = width / len(PALETTE)
     for index, color in enumerate(PALETTE):
         ET.SubElement(
-            gradient,
-            f"{{{SVG_NS}}}stop",
+            group,
+            f"{{{SVG_NS}}}rect",
             {
-                "offset": f"{index / (len(PALETTE) - 1):.2%}",
-                "stop-color": color,
+                "x": str(min_x + index * palette_width),
+                "y": str(min_y + height + STRIP_HEIGHT - 7),
+                "width": str(palette_width + 0.1),
+                "height": "7",
+                "fill": color,
             },
         )
-
-    ET.SubElement(
-        group,
-        f"{{{SVG_NS}}}line",
-        {
-            "x1": str(min_x + width * 0.30),
-            "x2": str(min_x + width * 0.70),
-            "y1": str(min_y + height + 2),
-            "y2": str(min_y + height + 2),
-            "stroke": "url(#profile-name-palette)",
-            "stroke-width": "2",
-        },
-    )
 
     label = ET.SubElement(
         group,
