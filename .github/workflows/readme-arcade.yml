@@ -26,10 +26,17 @@ jobs:
       - name: Add display name
         run: python scripts/add_arcade_name.py
 
+      - name: Publish branded artwork
+        run: |
+          cp dist/readme-arcade.svg dist/readme-arcade-kaus-theta.svg
+          cp dist/readme-arcade-dark.svg dist/readme-arcade-kaus-theta-dark.svg
+
       - name: Verify generated artwork
         run: |
           test -s dist/readme-arcade.svg
           test -s dist/readme-arcade-dark.svg
+          test -s dist/readme-arcade-kaus-theta.svg
+          test -s dist/readme-arcade-kaus-theta-dark.svg
 
       - name: Commit artwork
         run: |

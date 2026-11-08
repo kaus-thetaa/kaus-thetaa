@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dist/readme-arcade-dark.svg?v=kaus-theta">
-  <source media="(prefers-color-scheme: light)" srcset="./dist/readme-arcade.svg?v=kaus-theta">
-  <img src="./dist/readme-arcade.svg?v=kaus-theta" width="900" alt="KAUS_THETA — README Arcade">
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/readme-arcade-kaus-theta-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./dist/readme-arcade-kaus-theta.svg">
+  <img src="./dist/readme-arcade-kaus-theta.svg" width="900" alt="KAUS_THETA — README Arcade">
 </picture>
 
 <p>
