@@ -74,16 +74,18 @@ def add_name(path: Path) -> None:
         },
     )
 
-    palette_width = width / len(PALETTE)
+    palette_total_width = width * 0.58
+    palette_start = min_x + (width - palette_total_width) / 2
+    palette_width = palette_total_width / len(PALETTE)
     for index, color in enumerate(PALETTE):
         ET.SubElement(
             group,
             f"{{{SVG_NS}}}rect",
             {
-                "x": str(min_x + index * palette_width),
-                "y": str(min_y + height + STRIP_HEIGHT - 7),
+                "x": str(palette_start + index * palette_width),
+                "y": str(min_y + height + STRIP_HEIGHT - 5),
                 "width": str(palette_width + 0.1),
-                "height": "7",
+                "height": "4",
                 "fill": color,
             },
         )
