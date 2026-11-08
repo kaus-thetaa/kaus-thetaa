@@ -10,7 +10,7 @@ FILES = [
     Path("dist/readme-arcade-dark.svg"),
 ]
 
-NAME = "KAUSTHUB CHATURVEDI"
+NAME = "KAUSTUBH CHATURVEDI"
 STRIP_HEIGHT = 46
 
 

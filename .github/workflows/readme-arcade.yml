@@ -16,17 +16,25 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
-      - name: Generate arcade SVG
+      - name: Generate Arcade artwork
         uses: ECD5A/README-Arcade@v1
         with:
           user: kaus-thetaa
           mode: matrix
           speed: normal
 
-      - name: Commit generated artwork
+      - name: Add display name
+        run: python scripts/add_arcade_name.py
+
+      - name: Verify generated artwork
+        run: |
+          test -s dist/readme-arcade.svg
+          test -s dist/readme-arcade-dark.svg
+
+      - name: Commit artwork
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add dist
+          git add dist/
           git diff --cached --quiet || git commit -m "Update README Arcade"
           git push
