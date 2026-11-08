@@ -1,114 +1,117 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=700&height=60&lines=Kaustubh+Chaturvedi+%E2%80%94+Avionics+%7C+AI+%7C+Embedded+Systems" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/readme-arcade-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./dist/readme-arcade.svg">
+    <img src="./dist/readme-arcade.svg" width="900" alt="README Arcade">
+  </picture>
 
-**B.Tech Computer Science & Engineering @ MIT Manipal**
+  <h1>Kaustubh Chaturvedi</h1>
+  <b>B.Tech Computer Science & Engineering @ MIT Manipal</b>
+  <br>
+  Flight Avionics · Embedded Systems · Artificial Intelligence
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaustubh-chaturvedi-644865374)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaus-thetaa)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/zMUiC6AML7)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itskaustheta)
+  <br><br>
+
+  <a href="https://linkedin.com/in/kaustubh-chaturvedi-644865374"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/kaus-thetaa"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://leetcode.com/u/zMUiC6AML7"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"></a>
+  <a href="https://instagram.com/itskaustheta"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
 
 </div>
 
-<br/>
+---
 
-> Building at the intersection of **Artificial Intelligence** and **Hardware**. Currently developing flight-critical firmware for internationally competitive sounding rockets, engineering offline AI layers, and leading strategic marketing initiatives. I thrive in environments requiring low-latency hardware control and intelligent software architectures.
-
-<br/>
+Building at the intersection of **Artificial Intelligence and Hardware**. Currently developing flight-critical firmware and telemetry systems for sounding rockets, engineering offline AI applications, and exploring intelligent software architectures. Interested in systems that combine low-level hardware control with practical, reliable software.
 
 ### Experience
 
-**Avionics & Flight Electronics Developer @ [thrustMIT](https://github.com/thrustMIT)** *(IREC/ESRA Competing Team)*
+**Avionics & Flight Electronics Developer @ [thrustMIT](https://github.com/thrustMIT)** · *IREC / ESRA competing team*
 
-* **Telemetry & Hardware:** Engineered a multi-bus sensor data acquisition pipeline (ICM-20948, KX134, MS5611) broadcasting telemetry over CAN3 at 1 Mbps between Teensy 4.1 microcontrollers.
-* **Flight Algorithms:** Designed and validated apogee detection algorithms in C and Python utilizing simulated rocket telemetry with Monte Carlo noise parameters.
-* **Ground Control System:** Developed a live GSE desktop application featuring a `SAFE → ARM → LAUNCH` safety interlock state machine, utilized in live static fire testing.
-* **Full-Stack Dashboard:** Built *RocketDash*—a live flight data telemetry dashboard using React, FastAPI, and a multi-sensor fusion pipeline.
-* **Research & Analysis:** Designed ANSIS, a novel IMU noise reduction algorithm. Characterized the ICM-20948 DLPF across 7 configurations to recommend optimal flight-relevant cutoff frequencies.
+- **Telemetry & Hardware:** Engineered a multi-bus sensor acquisition pipeline using ICM-20948, KX134 and MS5611, broadcasting telemetry over CAN3 at 1 Mbps between Teensy 4.1 microcontrollers.
+- **Flight Algorithms:** Designed and validated apogee detection algorithms in C and Python using simulated rocket telemetry with Monte Carlo noise parameters.
+- **Ground Control System:** Developed a live GSE desktop application featuring a `SAFE → ARM → LAUNCH` safety interlock state machine, used in live static-fire testing.
+- **Full-Stack Dashboard:** Built **RocketDash**, a live flight-data telemetry dashboard using React, FastAPI and a multi-sensor fusion pipeline.
+- **Research & Analysis:** Designed ANSIS, an IMU noise-reduction algorithm. Characterised the ICM-20948 DLPF across seven configurations to identify flight-relevant cutoff frequencies.
 
+### Tech Stack
 
-<br/>
+<div align="center">
 
-### Technical Arsenal
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java&theme=dark" height="48" alt="C, C++, Python and Java">
+
+<img src="https://img.shields.io/badge/Verilog-1A1A1A?style=flat-square" alt="Verilog">
+
+<br>
+
+**Embedded Systems & Hardware**
+
+<img src="https://skillicons.dev/icons?i=arduino,platformio&theme=dark" height="48" alt="Arduino and PlatformIO">
+
+<br>
+
+<img src="https://img.shields.io/badge/Teensy_4.1-183A55?style=flat-square" alt="Teensy">
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
+<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32">
+
+<br>
+
+<img src="https://img.shields.io/badge/CAN_Bus-333333?style=flat-square" alt="CAN Bus">
+<img src="https://img.shields.io/badge/I2C-333333?style=flat-square" alt="I2C">
+<img src="https://img.shields.io/badge/SPI-333333?style=flat-square" alt="SPI">
+<img src="https://img.shields.io/badge/LoRa-333333?style=flat-square" alt="LoRa">
+
+<br><br>
+
+**AI & Software**
+
+<img src="https://skillicons.dev/icons?i=react,fastapi&theme=dark" height="48" alt="React and FastAPI">
+
+<br>
+
+<img src="https://img.shields.io/badge/Stable--Baselines3-1A1A1A?style=flat-square" alt="Stable Baselines3">
+<img src="https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white" alt="Ollama">
+<img src="https://img.shields.io/badge/ChromaDB-1A1A1A?style=flat-square" alt="ChromaDB">
+
+<br><br>
+
+**Systems & Tools**
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,git,github&theme=dark" height="48" alt="Linux, Ubuntu, Debian, Git and GitHub">
+
+</div>
+
+---
+
+### Activity
 
 <table align="center">
   <tr>
-    <td align="center"><b>Languages</b></td>
-    <td align="center"><b>Embedded & Hardware</b></td>
-    <td align="center"><b>AI & Software</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      C/C++<br>
-      Python<br>
-      Java<br>
-      Verilog
+    <td align="center" valign="middle" width="32%">
+      <img src="./koi/koi.gif" width="256" alt="Git Koi">
+      <br>
+      <sub>Git Koi · Live GitHub activity</sub>
     </td>
-    <td align="center">
-      FreeRTOS · PlatformIO<br>
-      Teensy · ESP32 · STM32<br>
-      CAN Bus · I2C/SPI · LoRa<br>
-      GTKWave · Icarus Verilog
-    </td>
-    <td align="center">
-      React · FastAPI<br>
-      Stable-Baselines3 (RL)<br>
-      Ollama · ChromaDB<br>
-      Linux (Ubuntu/Debian)
+    <td align="center" valign="middle" width="68%">
+      <b>365 DAYS OF PROBLEM SOLVING</b>
+      <br>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/leetcode-isometric-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./assets/leetcode-isometric-light.svg">
+        <img src="./assets/leetcode-isometric-light.svg" width="100%" alt="LeetCode activity">
+      </picture>
     </td>
   </tr>
 </table>
 
-<br/>
-
-### Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **[AI-OS](https://github.com/kaus-thetaa/ai-os)** | Fully offline AI layer for Windows featuring local LLM integration and natural language file operations with zero cloud dependency. | `Python` `Ollama` `ChromaDB` `PyQt6` |
-| **[IMU_Auto_HAL](https://github.com/kaus-thetaa/IMU_Auto_HAL)** | Bare-metal C++ Hardware Abstraction Layer for auto-detecting I2C IMUs. Deployed directly into active flight hardware. | `C++` `Arduino` `I2C` `PlatformIO` |
-| **[rl-airbrakes](https://github.com/kaus-thetaa/rl-airbrakes)** | Reinforcement learning agent trained to optimize and control rocket airbrake deployment for precise apogee targeting. | `Python` `Stable-Baselines3` |
-
-<br/>
-
-### LeetCode Activity
-
 <div align="center">
-
-**365 DAYS OF PROBLEM SOLVING**
-
-![LeetCode Activity Dark](assets/leetcode-isometric-dark.svg#gh-dark-mode-only)
-![LeetCode Activity Light](assets/leetcode-isometric-light.svg#gh-light-mode-only)
-
-<sub>
-</sub>
-
+  <sub>Artwork: <a href="https://github.com/ECD5A/README-Arcade">README Arcade</a> · <a href="https://github.com/yalongwastaken/git-koi">Git Koi</a></sub>
 </div>
 
-<br/>
-
-
-
-<br/>
-<br/>
+<br>
 
 <div align="center">
-
-<img
-  src="./desert-needle-skyline.gif"
-  width="200%"
-  />
-
-<br/>
-
-<sub>
-
-  
-
-
-
-<!-- Export the GIF below in the look you picked, commit it, then: -->
-<p align="center">
-  <img src="assets/desert-needle-skyline.gif" alt="Desert Needle Skyline, animated ASCII art" width="720">
-</p>
+  <img src="./assets/desert-needle-skyline.gif" width="620" alt="Desert Needle Skyline">
+</div>
