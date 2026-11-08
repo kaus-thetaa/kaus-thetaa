@@ -6,6 +6,8 @@
   <img src="./dist/readme-arcade-kaus-theta.svg" width="900" alt="Kaustubh Chaturvedi — README Arcade">
 </picture>
 
+<h1>Kaustubh Chaturvedi</h1>
+
 <p>
   <strong>B.Tech Computer Science & Engineering @ MIT Manipal</strong>
   <br>
