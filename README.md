@@ -1,28 +1,33 @@
- <div align="center">
+<div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dist/readme-arcade-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./dist/readme-arcade.svg">
-    <img src="./dist/readme-arcade.svg" width="900" alt="README Arcade">
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/readme-arcade-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./dist/readme-arcade.svg">
+  <img src="./dist/readme-arcade.svg" width="900" alt="Kaustubh Chaturvedi — README Arcade">
+</picture>
 
-  <h1>Kaustubh Chaturvedi</h1>
-  <b>B.Tech Computer Science & Engineering @ MIT Manipal</b>
+<p>
+  <strong>B.Tech Computer Science & Engineering @ MIT Manipal</strong>
   <br>
   Flight Avionics · Embedded Systems · Artificial Intelligence
+</p>
 
-  <br><br>
-
+<p>
   <a href="https://linkedin.com/in/kaustubh-chaturvedi-644865374"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/kaus-thetaa"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
   <a href="https://leetcode.com/u/zMUiC6AML7"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"></a>
   <a href="https://instagram.com/itskaustheta"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
+</p>
 
 </div>
 
 ---
 
-Building at the intersection of **Artificial Intelligence and Hardware**. Currently developing flight-critical firmware and telemetry systems for sounding rockets, engineering offline AI applications, and exploring intelligent software architectures. Interested in systems that combine low-level hardware control with practical, reliable software.
+<div align="center">
+  <img src="./koi/koi.gif" width="145" alt="Git Koi — generated from GitHub activity">
+</div>
+
+Building at the intersection of **Artificial Intelligence and Hardware**. Currently developing flight-critical firmware and telemetry systems for sounding rockets, engineering offline AI applications, and exploring intelligent software architectures. Interested in systems combining low-level hardware control with practical, reliable software.
 
 ### Experience
 
@@ -36,82 +41,58 @@ Building at the intersection of **Artificial Intelligence and Hardware**. Curren
 
 ### Tech Stack
 
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java&theme=dark" height="48" alt="C, C++, Python and Java">
-
-<img src="https://img.shields.io/badge/Verilog-1A1A1A?style=flat-square" alt="Verilog">
-
-<br>
-
-**Embedded Systems & Hardware**
-
-<img src="https://skillicons.dev/icons?i=arduino,platformio&theme=dark" height="48" alt="Arduino and PlatformIO">
-
-<br>
-
-<img src="https://img.shields.io/badge/Teensy_4.1-183A55?style=flat-square" alt="Teensy">
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
-<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32">
-
-<br>
-
-<img src="https://img.shields.io/badge/CAN_Bus-333333?style=flat-square" alt="CAN Bus">
-<img src="https://img.shields.io/badge/I2C-333333?style=flat-square" alt="I2C">
-<img src="https://img.shields.io/badge/SPI-333333?style=flat-square" alt="SPI">
-<img src="https://img.shields.io/badge/LoRa-333333?style=flat-square" alt="LoRa">
-
-<br><br>
-
-**AI & Software**
-
-<img src="https://skillicons.dev/icons?i=react,fastapi&theme=dark" height="48" alt="React and FastAPI">
-
-<br>
-
-<img src="https://img.shields.io/badge/Stable--Baselines3-1A1A1A?style=flat-square" alt="Stable Baselines3">
-<img src="https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white" alt="Ollama">
-<img src="https://img.shields.io/badge/ChromaDB-1A1A1A?style=flat-square" alt="ChromaDB">
-
-<br><br>
-
-**Systems & Tools**
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,git,github&theme=dark" height="48" alt="Linux, Ubuntu, Debian, Git and GitHub">
-
-</div>
-
----
-
-### Activity
-
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center" valign="middle" width="32%">
-      <img src="./koi/koi.gif" width="256" alt="Git Koi">
-      <br>
-      <sub>Git Koi · Live GitHub activity</sub>
+    <td width="165"><strong>Languages</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,java&theme=dark" height="38" alt="C, C++, Python, Java">
+      <img src="https://img.shields.io/badge/Verilog-24292F?style=flat-square" alt="Verilog">
     </td>
-    <td align="center" valign="middle" width="68%">
-      <b>365 DAYS OF PROBLEM SOLVING</b>
+  </tr>
+  <tr>
+    <td><strong>Embedded & Hardware</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=arduino&theme=dark" height="38" alt="Arduino">
+      <img src="https://img.shields.io/badge/PlatformIO-222222?style=flat-square&logo=platformio&logoColor=white" alt="PlatformIO">
+      <img src="https://img.shields.io/badge/Teensy_4.1-183A55?style=flat-square" alt="Teensy">
+      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
+      <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32">
       <br>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/leetcode-isometric-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="./assets/leetcode-isometric-light.svg">
-        <img src="./assets/leetcode-isometric-light.svg" width="100%" alt="LeetCode activity">
-      </picture>
+      <img src="https://img.shields.io/badge/CAN_Bus-333333?style=flat-square" alt="CAN Bus">
+      <img src="https://img.shields.io/badge/I2C-333333?style=flat-square" alt="I2C">
+      <img src="https://img.shields.io/badge/SPI-333333?style=flat-square" alt="SPI">
+      <img src="https://img.shields.io/badge/LoRa-333333?style=flat-square" alt="LoRa">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>AI & Software</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,fastapi&theme=dark" height="38" alt="React and FastAPI">
+      <img src="https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white" alt="Ollama">
+      <img src="https://img.shields.io/badge/Stable--Baselines3-24292F?style=flat-square" alt="Stable Baselines3">
+      <img src="https://img.shields.io/badge/ChromaDB-24292F?style=flat-square" alt="ChromaDB">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Systems & Tools</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,git,github&theme=dark" height="38" alt="Linux, Ubuntu, Debian, Git and GitHub">
     </td>
   </tr>
 </table>
 
+---
+
 <div align="center">
-  <sub>Artwork: <a href="https://github.com/ECD5A/README-Arcade">README Arcade</a> · <a href="https://github.com/yalongwastaken/git-koi">Git Koi</a></sub>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/leetcode-isometric-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/leetcode-isometric-light.svg">
+    <img src="./assets/leetcode-isometric-light.svg" width="760" alt="LeetCode activity">
+  </picture>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="./assets/desert-needle-skyline.gif" width="620" alt="Desert Needle Skyline">
+  <img src="./assets/desert-needle-skyline.gif" width="560" alt="Desert Needle Skyline">
 </div>
