@@ -1,4 +1,5 @@
-<h1>Kaustubh Chaturvedi</h1>
+<div align="center">
+  <h1>Kaustubh Chaturvedi</h1>
 
 <p>
   <strong>B.Tech Computer Science & Engineering @ MIT Manipal</strong>
