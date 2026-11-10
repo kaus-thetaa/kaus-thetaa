@@ -87,7 +87,3 @@ Building at the intersection of **Artificial Intelligence and Hardware**. Curren
 </div>
 
 <br>
-
-<div align="center">
-  <img src="./assets/desert-needle-skyline.gif" width="800" alt="Desert Needle Skyline">
-</div>
